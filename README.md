@@ -1,16 +1,16 @@
-#Ciao,mi presento
+# Ciao,mi presento
 
 Io sono MKTech un ragazzo Italiano che sta imparando il PHP e vorrei parlarvi
 di  cosa avrei in mente di portare su GitHub
 
-#Progetti in creazione
+# Progetti in creazione
 Ora sto cercando di creare un Plugin per i server di MCPE,un Plugin Bedwars
 fatto bene perchè in giro di Plugin MCPE Bedwars Gratis non se ne trovano
 per questo sto cercando di impegnarmi per creare un bel Plugin.
 ma intanto porterò altri README dove vi spiegherò alcune cose basi con
 PocketMine.
 
-#Cos'è PocketMine?
+# Cos'è PocketMine?
 
 Per chi non sapesse cos'è PocketMine,beh,è un software per creare
 server MCPE.Ci sono 2 tipi di Hosting
@@ -29,4 +29,4 @@ aprire le famigerate porte del router.
 quanta RAM ha la vostra VPS/Dedicato e più è la RAM meno sarà il lag del 
 server.
 
-#Ciao,ci vediamo presto un un'altro README!
+# Ciao,ci vediamo presto un un'altro README!
