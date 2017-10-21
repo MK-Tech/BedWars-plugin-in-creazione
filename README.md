@@ -16,6 +16,7 @@ Per chi non sapesse cos'è PocketMine,beh,è un software per creare
 server MCPE.Ci sono 2 tipi di Hosting
 
 >Hosting casalingo
+
 >Hosting su VPS/Dedicato
 
 Cosa cambia tra i due?
